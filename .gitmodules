@@ -1,0 +1,6 @@
+[submodule "mach-web"]
+	path = mach-web
+	url = https://github.com/jorgevmachado/mach-web.git
+[submodule "mach-api"]
+	path = mach-api
+	url = https://github.com/jorgevmachado/mach-api.git
